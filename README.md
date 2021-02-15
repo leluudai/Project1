@@ -1,6 +1,6 @@
 # Project1
 
----- Memory Game Rules
+- Memory Game Rules
 
 1. Setup
 Carefully punch the 72 cards out of the cardboard sheet. Mix and spread the cards picture-side-down on a flat surface. Note: Keep the plastic tray for storing the cards. This will prevent them from becoming nicked or marked.
@@ -22,3 +22,11 @@ That player's turn ends-and all players try to remember which cards were turned 
 
 3. End of the Game
 The player who has the most pairs of matching cards wins.
+
+Vision Statement of this Memory Game 
+
+1. The goal of the games is create fun time that both adults and kids can spend great family time together. In addtion, play memory games can improve other brain such as concentration, focus, cirtical thinking for adults. For kids, this can helps them attention to detail at many aspects. This is basically the entire outcome goal and purpose of this game. 
+
+- Features of them Game 
+- 10 User stoires of the game
+
