@@ -28,5 +28,5 @@ Vision Statement of this Memory Game
 1. The goal of the games is create fun time that both adults and kids can spend great family time together. In addtion, play memory games can improve other brain such as concentration, focus, cirtical thinking for adults. For kids, this can helps them attention to detail at many aspects. This is basically the entire outcome goal and purpose of this game. 
 
 - Features of them Game 
-- 10 User stoires of the game
+- 10 User stories of the game
 
