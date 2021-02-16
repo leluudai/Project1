@@ -25,8 +25,17 @@ The player who has the most pairs of matching cards wins.
 
 ## Vision Statement of this Memory Game 
 
-- The goal of the games is create fun time that both adults and kids can spend great family time together. In addtion, play memory games can improve other brain such as concentration, focus, cirtical thinking for adults. For kids, this can helps them attention to detail at many aspects. This is basically the entire outcome goal and purpose of this game. 
+- The goal of the games is create fun time that both adults and kids can spend great family time together. In addtion, play memory games can improve other brain such as concentration, focus, cirtical thinking for adults. For kids, this can helps them attention to detail at many aspects. This is basically the entire outcome goal and purpose of this game.
 
-- Features of them Game 
-- 10 User stories of the game
+## Features of them Game 
+- Play up to maximum 4 peoples in the games 
+- Single Player mode with machine
+- Restarts the games from the begin
+- Change themes and music before game start
+- Clock start mode if needed
+- Show scores result of all player and winnner after games is over. 
+- Select memory games based on topic such as animals, tree, foods, vehicle, etc
+- Many more features to come in next version of the game. Stay tuned!
+
+## 10 User stories of the game
 
