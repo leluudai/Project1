@@ -36,6 +36,3 @@ The player who has the most pairs of matching cards wins.
 - Show scores result of all player and winnner after games is over. 
 - Select memory games based on topic such as animals, tree, foods, vehicle, etc
 - Many more features to come in next version of the game. Stay tuned!
-
-## 10 User stories of the game
-
